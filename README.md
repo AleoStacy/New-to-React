@@ -21,9 +21,9 @@ Install dependencies:
 
 bash
 
-Copy
+
 - npm start
-- The app will be available at https://vercel.com/api/toolbar/link/react-to-do-list-ochre-nine.vercel.app?via=project-dashboard-alias-list&p=1&page=/
+- The app will be available at http://localhost:3000.
 
 ## Features
 1. Add Tasks: Enter a new task and add it to the list.
